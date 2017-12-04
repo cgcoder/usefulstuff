@@ -1,0 +1,4 @@
+set runtimepath^=~/.vim/bundle/ctrlp.vim
+set tabstop=4
+set expandtab
+nnoremap <F5> :buffers<CR>:buffer<Space>
