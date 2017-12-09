@@ -1,3 +1,4 @@
+# VIM configuration file
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 set tabstop=4
 set expandtab
